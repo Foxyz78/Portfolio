@@ -1,0 +1,62 @@
+{
+    "works": [
+        {
+            "id": "01",
+            "src": "./img/ohmyfood.jpg",
+            "alt": "Ohmyfood",
+            "category": "dev",
+            "title": "Ohmyfood",
+            "description": "bref description du projet Ohmyfood. ",
+            "technologies": ["React, SASS"],
+            "link": "https://foxyz78.github.io/Openclassrooms/Projet_04/ohmyfood/index.html"
+        },
+        {
+            "id": "02",
+            "src": "./img/nina-carducci.jpg",
+            "alt": "",
+            "category": "dev",
+            "title": "Nina Carducci",
+            "description": "Site internet de la photographe Nina Carducci",
+            "technologies": ["React, SASS"],
+            "link": "https://foxyz78.github.io/Nina_Carducci/"
+        },
+        {
+            "id": "03",
+            "src": "./img/booki.jpg",
+            "alt": "",
+            "category": "dev",
+            "title": "Kasa",
+            "description": "fdsfksfjdslk",
+            "technologies": ["React, SASS"],
+            "link": "https://github.com/Foxyz78/Openclassrooms/tree/main/Projet_08/kasa"
+        },
+        {
+            "id": "03",
+            "src": "./img/booki.jpg",
+            "alt": "",
+            "category": "dev",
+            "title": "Booki",
+            "description": "Site internet de la photographe Nina Carducci",
+            "technologies": ["React, SASS"],
+            "link": "GitHub"
+        }
+    ],
+    "experience": [
+        {
+            "date": "",
+            "job": "",
+            "location": "",
+            "company": "",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "date": "",
+            "degree": "",
+            "location": "",
+            "company": "",
+            "description": ""
+        }
+    ]
+}

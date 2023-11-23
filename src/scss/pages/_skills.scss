@@ -1,0 +1,23 @@
+.skills {
+    position: relative;
+    min-height: $full-view-height;
+    display: flex;
+    flex-direction: column;
+
+    &__container {
+        // padding-top: ;
+    }
+
+    &__wrapper {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.timeline {
+    &__title {
+    }
+    &__items {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,21 @@
+@import "./abstracts/variables";
+@import "./abstracts/mixins";
+@import "./abstracts/functions";
+
+@import "./base/animations";
+@import "./base/typography";
+@import "./base/utilities";
+@import "./base/base";
+
+@import "components/buttons";
+@import "components/hero";
+@import "./components/form";
+@import "./components/project";
+@import "./components/social";
+@import "./components/navbar";
+@import "./components/project_card";
+@import "./components/footer";
+@import "./components/skillTag";
+
+@import "./pages/contact";
+@import "./pages/skills";

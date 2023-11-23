@@ -1,0 +1,37 @@
+.hero-section {
+    display: flex;
+    height: 100vh;
+    padding: 10rem 8rem;
+
+    &__title {
+        font-size: 3rem;
+        font-weight: 700;
+    }
+    &__job-color {
+        color: $color-primary;
+    }
+
+    &__box {
+        display: flex;
+        align-items: center;
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+
+    &__description {
+        color: $color-primary-dark;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 3.6rem;
+    }
+
+    &__image img {
+        object-fit: cover;
+
+        height: 300px;
+    }
+}

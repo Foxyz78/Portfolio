@@ -1,0 +1,40 @@
+.btn {
+    display: inline-block;
+    padding: 1.4rem 3.2rem;
+    font-size: 1.4rem;
+    font-style: normal;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+    border-radius: 0.5rem;
+    transition: background-color 0.5s;
+
+    &-outline-primary {
+        color: $color-primary;
+        background-color: $color-white;
+        border: 1px $color-primary;
+        &:hover {
+            color: $color-primary;
+            background-color: $color-white;
+            border: 1px $color-primary;
+        }
+    }
+
+    &-primary {
+        width: 50%;
+        color: $color-white;
+        background-color: $color-primary;
+        border: 1px solid $color-primary;
+        &:hover {
+            color: $color-primary;
+            background-color: $color-white;
+            border: 1px solid $color-primary;
+        }
+    }
+
+    &-github {
+        color: $color-github;
+        background-color: $color-white;
+    }
+}
